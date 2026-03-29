@@ -1,0 +1,105 @@
+    1  ls -a
+    2  clear
+    3* 
+    4  cd C:\Users\Marin\Desktop\study\op_sus\vjezbe\OS-vjezbe
+    5  cd C:\Users\Marin\Desktop\study\op_sus\vjezbe
+    6  cd c:
+    7  cd users/marin/desktop
+    8  clear
+    9  cd c:users/marin/desktop/study/os_sus/vjezbe
+   10  cd c:users/marin/desktop/study/op_sus/vjezbe
+   11  git clone https://github.com/marin-cvetko/OS-vjezbe
+   12  git clone https://github.com/marin-cvetko/OS-vjezbe
+   13  cd os-vjezbe
+   14  touch vjezbe_2.txt
+   15  git add vjezba_2.txt
+   16  git add vjezbe_2.txt
+   17  git commit -m "riješen zadatak 1"
+   18  git push origin main
+   19  ģit status
+   20  git status
+   21  mkdir vjezbe2_/data
+   22  mkdir vjezbe_2/data
+   23  mkdir data
+   24  mkdir backup
+   25  ls
+   26* 
+   27  echo 'console.log("Hello, World!")' > script.js
+   28  echo 'body{ background-color:#f0f0f0; }' > style.css
+   29  echo 'VJEZBE=OS' > .env
+   30  cat
+   31  cat script.js
+   32  cat style.css
+   33  cat .enc
+   34  cat .env
+   35  git add .
+   36  git commit -m "riješen zadatak 2"
+   37  git push origin main
+   38  cp * ../backup
+   39  cd ../backup
+   40  ls
+   41  cd .
+   42  cd ..
+   43  cp data/.env backup
+   44  ls
+   45  ls backup
+   46  cp /data/.env /backup/
+   47  cp data/.env /backup/
+   48  ls backup
+   49  ls backup *
+   50  ls backup -a
+   51  cp -v
+   52  cp -v data/* backup/
+   53  cd backup
+   54  ls
+   55  cd ../data
+   56  ls -laS ../backup
+   57  git add .
+   58  git commit -m "rijesen zadatak 3"
+   59  cd ..
+   60  git add .
+   61  git commit -m "rijesen zadatak 3"
+   62  git push origin main
+   63  cd data
+   64  rm -i script.js style.css
+   65  cp -vn ../backup/.* .
+   66  ls
+   67  ls -a
+   68  cp -vn ../backup/.* data/
+   69  cp -vn ../backup/.* ../data
+   70  ls -a
+   71  cp -vn ../backup/* ../data
+   72  ls -a
+   73  ls -At
+   74  ls -At1
+   75  tree -At1
+   76  tree
+   77  tree -a
+   78  tree
+   79* 
+   80  tree -At1
+   81  tree -At
+   82  tree -q
+   83  tree -a
+   84  cd ..
+   85  git add .
+   86  git commit -m "rijesen zadatak 4"
+   87  git push origin main
+   88  cd ..
+   89  cd ..
+   90  cd ..
+   91  cd opz
+   92  tree 
+   93  ls -laS
+   94  ls -lhS
+   95  tree -a
+   96  cd ..
+   97  cd /op_sus
+   98  cd op_sus
+   99  ls
+  100  cd vjezbe
+  101  tree
+  102  cd os-vjezbe
+  103  git add .
+  104  git commit -m "rijesen zadatak 5"
+  105  history > vjezbe_2.txt
